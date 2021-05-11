@@ -1,4 +1,4 @@
- Sejam Bem vindos(as)!!!
+<h3> Sejam Bem vindos(as)!!! />
 
 <img align="right" alt="GIF" src="https://imgur.com/XwcZU9t.gif" width="550" height="450" />
 
