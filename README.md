@@ -2,18 +2,6 @@
 
 <img align="right" alt="GIF" src="https://imgur.com/XwcZU9t.gif" width="550" height="450" />
 
-<div align="right" align="top">
- 
- ### DataBase
- 
- ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
- 
-### Design
-
- ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
- ![Trello Badge](https://img.shields.io/badge/Trello-F24E1E?style=for-the-badge&logo=trello&logoColor=white)
-</div>
-
  ## Meu nome é Erick Alan 👨‍💻 
 
 <p> Sou formado na Etec Prof. Adhemar Batista Heméritas como Técnico em eletrônica em 2019. </p>
