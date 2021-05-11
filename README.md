@@ -48,8 +48,6 @@ https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoCol
 <a href = "https://www.linkedin.com/in/erick-alan-7bb92b1b4/" <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "https://www.facebook.com/erick.alan.526" <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href = "https://www.instagram.com/erick_alan__/?hl=pt-br" <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<img src = "https://img.shields.io/badge/(11)969020608-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-" >
 
 </p>
 
