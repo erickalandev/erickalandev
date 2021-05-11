@@ -2,6 +2,18 @@
 
 <img align="right" alt="GIF" src="https://imgur.com/XwcZU9t.gif" width="550" height="450" />
 
+<div align="right" align="top">
+ 
+ ### DataBase
+ 
+ ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+ 
+### Design
+
+ ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+ ![Trello Badge](https://img.shields.io/badge/Trello-F24E1E?style=for-the-badge&logo=trello&logoColor=white)
+</div>
+
  ## Meu nome é Erick Alan 👨‍💻 
 
 <p> Sou formado na Etec Prof. Adhemar Batista Heméritas como Técnico em eletrônica em 2019. </p>
@@ -35,17 +47,6 @@ manualmente inserir, selecionar e alterar dados. </p>
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-<div align="right" align="top">
- 
- ### DataBase
- 
- ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
- 
-### Design
-
- ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
- ![Trello Badge](https://img.shields.io/badge/Trello-F24E1E?style=for-the-badge&logo=trello&logoColor=white)
-</div>
 ----
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/erick-alan-7bb92b1b4/)
