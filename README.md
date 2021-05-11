@@ -15,6 +15,8 @@ manualmente inserir, selecionar e alterar dados. </p>
 ### Linguagem
 
  [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ 
+
  [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  [![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  [![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -40,7 +42,7 @@ manualmente inserir, selecionar e alterar dados. </p>
 ### Design
 
  [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-[![Trello Badge](https://img.shields.io/badge/Trello-F24E1E?style=for-the-badge&logo=trello&logoColor=white)
+ [![Trello Badge](https://img.shields.io/badge/Trello-F24E1E?style=for-the-badge&logo=trello&logoColor=white)
 
 ----
 
