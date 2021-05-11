@@ -45,10 +45,7 @@ https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoCol
 ----
 <h3 align="center">Contatos</h3>
 <p align = "center">
-<a href = "https://www.linkedin.com/in/erick-alan-7bb92b1b4/" <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href = "https://www.facebook.com/erick.alan.526" <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href = "https://www.instagram.com/erick_alan__/?hl=pt-br" <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
+<a href = "https://www.linkedin.com/in/erick-alan-7bb92b1b4/" <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a
 </p>
 
 
