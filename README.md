@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://imgur.com/XwcZU9t.gif" width="550" height="450" />
 
- <h3> Meu nome é Erick Alan 👨‍💻 </h3>
+ ## Meu nome é Erick Alan 👨‍💻 
 
 <p> Sou formado na Etec Prof. Adhemar Batista Heméritas como Técnico em eletrônica em 2019. </p>
 <p> Atualmente não atuo mais na área, durante a pandemia de 2021 decidi fazer uma transição de carreira, estudando
@@ -13,13 +13,13 @@ manualmente inserir, selecionar e alterar dados. </p>
 ---
 
 <h2>Linguagem</h2>
-<p>
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+
+(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+(https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-</p>
+
 
 <h3>DataBase</h3>
 <p>https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white</p>
