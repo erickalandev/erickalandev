@@ -1,6 +1,6 @@
 # Sejam Bem vindos(as)!!!
 
-<img align="right" alt="GIF" src="https://imgur.com/XwcZU9t.gif" width="500" height="450" />
+<img align="right" alt="GIF" src="https://imgur.com/XwcZU9t.gif" width="700" height="450" />
 
 <h2> Meu nome é Erick Alan </h2>
 
