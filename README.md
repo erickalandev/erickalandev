@@ -1,6 +1,6 @@
 # Sejam Bem vindos(as)
 
-<h2 align="center"> Meu nome é Erick Alan </h2>
+<h1> Meu nome é Erick Alan </h1>
 
  ---
  
