@@ -1,6 +1,6 @@
 # Sejam Bem vindos(as)
 
-<h2 aligh="center"> Meu nome é Erick Alan </h2>
+<h2 align="center"> Meu nome é Erick Alan </h2>
 
 <p> Sou formado como técnico em eletrõnica na Etec Prof. Adhemar Batista Heméritas em 2019,
 porém não atuo mais na área, durante a pandemia de 2021 decidi fazer uma transição de carreira, estudando
