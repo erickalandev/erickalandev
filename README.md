@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://imgur.com/XwcZU9t.gif" width="550" height="450" />
 
- <h2> Meu nome é Erick Alan </h2>
+ <h3> Meu nome é Erick Alan 👨‍💻 </h3>
 
 <p> Sou formado como técnico em eletrõnica na Etec Prof. Adhemar Batista Heméritas em 2019. </p>
 <p> Porém não atuo mais na área, durante a pandemia de 2021 decidi fazer uma transição de carreira, estudando
