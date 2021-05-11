@@ -36,10 +36,11 @@ manualmente inserir, selecionar e alterar dados. </p>
  
  ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  
-### Design
+### Outros
 
  ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
  ![Trello Badge](https://img.shields.io/badge/Trello-F24E1E?style=for-the-badge&logo=trello&logoColor=white)
+ ![Scrum Badge](https://img.shields.io/badge/Scrum-F24E1E?style=for-the-badge&logo=scrum&logoColor=white)
 
 ----
 
