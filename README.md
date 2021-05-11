@@ -10,7 +10,7 @@ para me tornar Desenvolvedor Web. Sou capaz de trabalhar em criações e consumi
 prototipação em web com Angular, fazer relacionamentos com APIs no bancos de dados relacional (MySQL) ou
 manualmente inserir, selecionar e alterar dados. </p>
 
-###Contato
+### Contato
 
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/erick-alan-7bb92b1b4/)
