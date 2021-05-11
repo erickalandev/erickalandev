@@ -8,6 +8,8 @@ para me tornar Desenvolvedor Web. Atualmente consigo atuar em criações e consu
 prototipação em web com Angular, fazer relacionamentos com APIs no bancos de dados relacional (MySQL) ou
 manualmente criar dados e seleciona-los. </p>
 
+----
+
 
 
 
