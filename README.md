@@ -23,6 +23,19 @@ manualmente inserir, selecionar e alterar dados. </p>
 
 ### Frameworks
 
+<div align="right">
+ 
+ ### DataBase
+ 
+ ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+ 
+### Design
+
+ ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+ ![Trello Badge](https://img.shields.io/badge/Trello-F24E1E?style=for-the-badge&logo=trello&logoColor=white)
+</div>
+
+
 ![NPM Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -35,17 +48,7 @@ manualmente inserir, selecionar e alterar dados. </p>
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-<div align="top">
- 
- ### DataBase
- 
- ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
- 
-### Design
 
- ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
- ![Trello Badge](https://img.shields.io/badge/Trello-F24E1E?style=for-the-badge&logo=trello&logoColor=white)
-</div>
 
 
 ----
