@@ -1,6 +1,8 @@
-# Erick Alan O. Moura 👨‍💻
+# Seja Bem vindos(as)
 
-[![Linkedin Badge]
+Sou o Erick Alan
+
+
 
 
 
