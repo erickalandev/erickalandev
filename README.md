@@ -6,7 +6,7 @@
 
 <p> Sou formado na Etec Prof. Adhemar Batista Heméritas como Técnico em eletrônica em 2019. </p>
 <p> Durante a pandemia do covid-19 decidi fazer uma transição de carreira, estudando
-para me tornar Desenvolvedor Web. Sou capaz de trabalhar em criações e consumos APIs com Spring Boot MVC, 
+para me tornar Desenvolvedor Web. Sou capaz de trabalhar em criações e consumos de APIsRestFul com Spring Boot MVC, 
 prototipação em web com Angular, fazer relacionamentos com APIs no bancos de dados relacional (MySQL) ou
 manualmente inserir, selecionar e alterar dados. </p>
 
