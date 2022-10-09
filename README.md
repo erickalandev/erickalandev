@@ -4,6 +4,7 @@
 
  ### Meu nome é Erick Alan 👨‍💻 
 
+<p> Estou me graduando em Análises e Desenvolvimento de Sistemas(ADS) em 2022</p>
 <p> Sou formado na Etec Prof. Adhemar Batista Heméritas como Técnico em eletrônica em 2019. </p>
 <p> Durante a pandemia do covid-19 decidi fazer uma transição de carreira, estudando
 para me tornar Desenvolvedor Web. Sou capaz de trabalhar em criações e consumos de APIsRestFul com Spring Boot MVC, 
