@@ -6,10 +6,9 @@
 
 <p> Estou me graduando em Análises e Desenvolvimento de Sistemas(ADS) em 2022</p>
 <p> Sou formado na Etec Prof. Adhemar Batista Heméritas como Técnico em eletrônica em 2019. </p>
-<p> Durante a pandemia do covid-19 decidi fazer uma transição de carreira, estudando
-para me tornar Desenvolvedor Web. Sou capaz de trabalhar em criações e consumos de APIsRestFul com Spring Boot MVC, 
-prototipação em web com Angular, fazer relacionamentos com APIs no bancos de dados relacional (MySQL) ou
-manualmente inserir, selecionar e alterar dados. </p>
+<p> Durante a pandemia do covid-19 decidi entrar nessa carreira tecnológica, estudando
+para me tornar Desenvolvedor Web - FullStack. Sou capaz de trabalhar em criações e consumos de APIsRestFul com Spring Boot MVC, 
+prototipação em web com Angular, fazer relacionamentos com APIs no bancos de dados relacional (MySQL) também tenho experiência em criação e manipulação de dados. </p>
 
 ### Contato
 
